@@ -17,5 +17,4 @@ LICENSE
 
 TODOs
 --------
-- TODO: add the actual app files
 - TODO: remove licensing from app

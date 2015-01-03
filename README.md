@@ -5,6 +5,8 @@ The original Lightpaint Live program. Find more programs at http://lightpaintliv
 
 Original site: http://positlabs.github.io/lpl-heavy
 
+Download LPL Heavy: http://positlabs.github.io/lpl-heavy/heavy/lpl_installer.air
+
 
 LICENSE
 --------
